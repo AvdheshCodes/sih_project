@@ -67,7 +67,7 @@ function initializeVideoModal() {
     const videoPlayer = document.getElementById('demo-video-player');
 
     // THIS IS WHERE YOU ENTER YOUR VIDEO FILE PATH
-    const videoSrc = "Prompt_A_friendly_and_clear.mp4"; // <-- EDIT THIS LINN
+    const videoSrc = "InterSaathi_intro.mp4"; // <-- EDIT THIS LINN
 
     if (!videoModal || !openButton || !closeButton || !videoPlayer) {
         console.warn('Video modal elements not found');
